@@ -10,3 +10,4 @@ As part of my acknowledgements I will provide a list of resources that I used to
 * [Andrew Ng Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 * [Stanford Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
 * [PyTorch Tutorials](https://pytorch.org/tutorials/)
+* [MIT Introduction to Deep Learning](http://introtodeeplearning.com/)

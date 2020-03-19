@@ -1,4 +1,4 @@
-# Deep Learning Self-Learning Resources
+# Deep Learning Self-Study Resources
 
 This is a list of free material that I have personally used to study deep learning (and related topics) or have been recommended to me.
 

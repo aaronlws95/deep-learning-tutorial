@@ -5,7 +5,7 @@ This is a list of free material that I have personally used to study deep learni
 ## Deep Learning
 
 ### Courses
-* [Deep Learning Specialization by deeplearning.ai]((https://www.deeplearning.ai/deep-learning-specialization/)) (Andrew Ng)
+* [Deep Learning Specialization by deeplearning.ai](https://www.deeplearning.ai/deep-learning-specialization/) (Andrew Ng)
 * [MIT 6.S191 Introduction to Deep Learning](https://www.deeplearning.ai/deep-learning-specialization/)
 * [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/index.html) (Fei-Fei Li, Andrej Karpathy)
 * [Google’s Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
